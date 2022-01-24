@@ -1,0 +1,42 @@
+body{
+    margin: 0 auto;
+}
+header{
+    background-color: black;
+    height: 40px;
+    margin: 0 auto  ;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+li{
+    display: inline-block;
+    margin-right: 3px;
+}
+
+ul{
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.container{
+    background-color: gainsboro;
+    margin: 0 auto;
+    height: 700px;
+}
+
+p{
+    column-count: 4;
+    column-rule: 2px solid;
+    text-align: justify;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
